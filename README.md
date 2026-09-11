@@ -1,0 +1,1 @@
+This is a web-game features a rolling dice simulation.Upon initiating the simulationnafter clicking button it will generate random numbers using javascript logics. Moreover, this game have smooth interactions,responsive designs and we added Particle.js (a lightweight js library) to make floating particles animation.
